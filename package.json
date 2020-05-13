@@ -5,6 +5,10 @@
     "version": "1.0.0",
     "publisher": "BugHackers",
     "icon": "images/icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BugHackers-Hackerspace/debug-is-comming.git"
+    }
     "galleryBanner": {
         "color": "#333",
         "theme": "dark"
@@ -15,7 +19,7 @@
     "categories": [
         "Themes"
     ],
-    "keywords": ["BugHackers", "bughackers", "debug is comming", "bugs", "debug bughackers"],
+    "keywords": ["BugHackers", "bughackers", "debug is comming", "color", "theme"],
     "contributes": {
         "themes": [
             {
