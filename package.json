@@ -2,12 +2,12 @@
     "name": "debug-is-comming",
     "displayName": "Debug is comming",
     "description": "Official color theme of BugHackers Hackerspace",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "publisher": "BugHackers",
     "icon": "images/icon.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BugHackers-Hackerspace/debug-is-comming.git"
+        "url": "https://github.com/Bughackers/debug-is-comming.git"
     },
     "galleryBanner": {
         "color": "#333",

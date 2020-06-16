@@ -2,12 +2,12 @@
 	"name": "Debug is comming",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#131313",
+		"editor.background": "#171717",
 		"editor.foreground": "#ffffff",
-		"editor.lineHighlightBorder": "#008b96",
+		"editor.lineHighlightBorder": "#171717",
 		"activityBarBadge.background": "#008b96",
 		"sideBarTitle.foreground": "#fff",
-		"sideBar.background": "#101010",
+		"sideBar.background": "#171717",
 		"activityBar.background": "#008b96",
 		"statusBar.background": "#008b96",
 		"sideBar.border": "#008b96",
@@ -24,7 +24,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#074e00"
+				"foreground": "#4a08e6"
 			}
 		},
 		{
@@ -72,7 +72,6 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -158,7 +157,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#929292"
+				"foreground": "#d8ca09"
 			}
 		},
 		{
@@ -273,7 +272,7 @@
 		{
 			"name": "CSS ID's",
 			"scope": [
-				"entity.other.attribute-name.id",
+				"entity.other.attribute-name.id"
 			],
 			"settings": {
 				"foreground": "#00ff2a"
@@ -537,7 +536,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{

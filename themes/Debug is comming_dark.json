@@ -4,7 +4,7 @@
 	"colors": {
 		"editor.background": "#2d2f30",
 		"editor.foreground": "#ffffff",
-		"editor.lineHighlightBorder": "#008b96",
+		"editor.lineHighlightBorder": "#2d2f30",
 		"activityBarBadge.background": "#008b96",
 		"sideBarTitle.foreground": "#008b96",
 		"activityBar.background": "#008b96",
@@ -81,7 +81,6 @@
 			"scope": [
 				"keyword.control",
 				"constant.other.color",
-				"punctuation",
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -282,7 +281,7 @@
 		{
 			"name": "CSS ID's",
 			"scope": [
-				"entity.other.attribute-name.id",
+				"entity.other.attribute-name.id"
 			],
 			"settings": {
 				"foreground": "#00ff2a"
@@ -546,7 +545,7 @@
 				"markup.quote"
 			],
 			"settings": {
-				"fontStyle": "italic",
+				"fontStyle": "italic"
 			}
 		},
 		{
