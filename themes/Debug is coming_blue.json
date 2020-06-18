@@ -1,28 +1,28 @@
 {
-	"name": "Debug is comming",
+	"name": "Debug is coming",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#2d2f30",
+		"activityBar.background": "#044346",
+		"editor.background": "#044346",
 		"editor.foreground": "#ffffff",
-		"editor.lineHighlightBorder": "#2d2f30",
+		"editor.lineHighlightBorder": "#044346",
 		"activityBarBadge.background": "#008b96",
-		"sideBarTitle.foreground": "#008b96",
-		"activityBar.background": "#008b96",
-		"notifications.background": "#161616",
-		"list.hoverBackground": "#008b96",
-		"list.hoverForeground": "#fff",
-		"list.activeSelectionBackground": "#008b96",
-		"list.inactiveSelectionBackground": "#005d61",
-		"list.inactiveSelectionForeground": "#fff",
-		"sideBar.border": "#008b96",
-		"tab.activeBackground": "#008b96",
-		"tab.activeForeground": "#d2dee7",
-		"tab.inactiveBackground": "#3e3e3e",
-		"tab.inactiveForeground": "#ccc",
-		"tab.activeBorderTop": "#008b96",
+		"sideBarTitle.foreground": "#ddd",
+		"sideBar.background": "#042f31",
+		"list.activeSelectionBackground": "#044346",
+		"list.inactiveSelectionBackground": "#0e293f",
+		"list.inactiveSelectionForeground": "#5f7e97",
+		"list.invalidItemForeground": "#975f94",
+		"list.dropBackground": "#011627",
+		"list.focusBackground": "#044346",
+		"list.focusForeground": "#ffffff",
+		"list.highlightForeground": "#ffffff",
+		"list.hoverBackground": "#044646",
+		"list.hoverForeground": "#ffffff",
+		"tab.inactiveBackground": "#042f31",
+		"notifications.background": "#042f31",
 		"button.background": "#008b96",
-		"button.foreground": "#fff",
-		"statusBar.background": "#005d61"
+		"statusBar.background": "#044346"
 	},
 	"tokenColors": [
 		{
@@ -33,7 +33,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#696969"
+				"foreground": "#008b96"
 			}
 		},
 		{
@@ -73,7 +73,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#008b96"
+				"foreground": "#de6234"
 			}
 		},
 		{
@@ -92,7 +92,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#008b96"
+				"foreground": "#de6234"
 			}
 		},
 		{

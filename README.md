@@ -1,4 +1,4 @@
-# Debug is comming
+# Debug is coming
 ## Official BugHackers Color Theme for VSCode 
 
 Install and see how it looks

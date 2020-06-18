@@ -1,14 +1,14 @@
 {
-	"name": "Debug is comming",
+	"name": "Debug is coming",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#f5f5f5",
-		"editor.foreground": "#333",
-		"editor.lineHighlightBorder": "#f5f5f5",
+		"editor.background": "#2d2f30",
+		"editor.foreground": "#ffffff",
+		"editor.lineHighlightBorder": "#2d2f30",
 		"activityBarBadge.background": "#008b96",
 		"sideBarTitle.foreground": "#008b96",
 		"activityBar.background": "#008b96",
-		"notifications.background": "#ccc",
+		"notifications.background": "#161616",
 		"list.hoverBackground": "#008b96",
 		"list.hoverForeground": "#fff",
 		"list.activeSelectionBackground": "#008b96",
@@ -17,9 +17,12 @@
 		"sideBar.border": "#008b96",
 		"tab.activeBackground": "#008b96",
 		"tab.activeForeground": "#d2dee7",
-		"tab.inactiveBackground": "#ccc",
-		"tab.inactiveForeground": "#333",
-		"tab.activeBorderTop": "#008b96"
+		"tab.inactiveBackground": "#3e3e3e",
+		"tab.inactiveForeground": "#ccc",
+		"tab.activeBorderTop": "#008b96",
+		"button.background": "#008b96",
+		"button.foreground": "#fff",
+		"statusBar.background": "#005d61"
 	},
 	"tokenColors": [
 		{
@@ -30,7 +33,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#929292"
+				"foreground": "#696969"
 			}
 		},
 		{
@@ -40,7 +43,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#333"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -49,7 +52,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#333"
+				"foreground": "#ffffff"
 			}
 		},
 		{
@@ -100,7 +103,7 @@
 				"markup.deleted.git_gutter"
 			],
 			"settings": {
-				"foreground": "#b9982c"
+				"foreground": "#e7be39"
 			}
 		},
 		{
@@ -113,7 +116,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#00b11d"
+				"foreground": "#00ff2a"
 			}
 		},
 		{
@@ -122,7 +125,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#333"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -148,7 +151,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#b12d7b"
+				"foreground": "#8a7dff"
 			}
 		},
 		{
@@ -163,7 +166,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#4a08e6"
+				"foreground": "#d8ca09"
 			}
 		},
 		{
@@ -202,7 +205,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#333"
+				"foreground": "#fff"
 			}
 		},
 		{
@@ -252,7 +255,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#b12d7b"
+				"foreground": "#C792EA"
 			}
 		},
 		{
