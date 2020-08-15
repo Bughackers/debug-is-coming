@@ -1,8 +1,8 @@
 {
-    "name": "debug-is-coming",
+    "name": "debug-is-comming",
     "displayName": "Debug is coming",
     "description": "Official color theme of BugHackers Hackerspace",
-    "version": "1.1.1",
+    "version": "1.1.5",
     "publisher": "BugHackers",
     "icon": "images/icon.png",
     "repository": {
